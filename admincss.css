@@ -1,0 +1,27 @@
+a {
+	text-decoration: none;
+}
+#tdheader {
+	width:13%;
+	height:20px;
+	text-align:right;
+}
+#tdsidebar {
+	width:13%;
+	vertical-align:top;
+}
+#tdfooter {
+	width:13%;
+	height:20px;
+	text-align:right;
+}
+#trrow {
+	background-color:0AF95E;
+}
+table{
+	width:100%;
+	height:100%;
+}
+td{
+	vertical-align: top;
+}
